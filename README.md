@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Adarsh Sikreewal
 
-<!--
-**ADARSH4118/ADARSH4118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technical Skills
+- Languages: Java, Python, C++
+- Web: HTML, CSS, JavaScript, PHP
+- Tools: Git, GitHub, VS Code
+- Databases: MySQL
+- Cloud: AWS basics
 
-Here are some ideas to get you started:
+🚀 Notable Projects
+- 🔹 **GH-timeline** – A PHP-based GitHub timeline update and email verification system.
+- 🔹 **Supermarket Automation System** – Inventory and billing solution using Java.
+- 🔹 **Fertilizer Optimizer** – A smart app for sustainable agriculture using ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🏆 Achievements and Interests
+- 🥇 Top 5 in Game of Codes DSA contest @ KIITFEST
+- 💡 Interested in AI/ML, automation, and cloud computing
+- 🎯 Currently learning MongoDB and full-stack development
