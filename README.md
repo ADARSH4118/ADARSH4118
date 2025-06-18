@@ -12,7 +12,7 @@
 - 🔹 **Supermarket Automation System** – Inventory and billing solution using Java.
 - 🔹 **Fertilizer Optimizer** – A smart app for sustainable agriculture using ML.
 
-  🏆 Achievements and Interests
+🏆 Achievements and Interests
 - 🥇 Top 5 in Game of Codes DSA contest @ KIITFEST
 - 💡 Interested in AI/ML, automation, and cloud computing
 - 🎯 Currently learning MongoDB and full-stack development
