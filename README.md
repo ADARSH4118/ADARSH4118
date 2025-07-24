@@ -2,12 +2,12 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI/ML+Explorer;Problem+Solver+🧠;Always+Learning+📚;Open+to+Internships+%26+Collaboration+🤝)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI/ML+Explorer;Problem+Solver+🧠;Always+Learning+📚;Open+to+Work+%26+Collaboration+🤝)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ADARSH4118&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/adarsh-sikreewal?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/adarsh-sikreewal?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/followers/ADARSH4118?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/ADARSH4118?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 </div>
@@ -23,7 +23,7 @@
 - 🧠 Working on **AI/ML**, **EdTech Tools**, and **Automation Projects**
 - 💬 Passionate about solving real-world problems with code
 - 🌦️ Built a **Fertilizer Recommender** using weather, soil, and crop data
-- 📍 Based in **Jharkhand, India**
+- 📍 Based in **Bhubaneswar, India**
 
 <br clear="right"/>
 
@@ -130,9 +130,9 @@ mindmap
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh4118.github.io/MyWebsite/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-sikreewal)
-[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshsikreewal1211@gmail.com)
 
 <img src="https://img.shields.io/badge/Open_to_Internships-00D4FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Loves_Building_Tools-FF6B6B?style=for-the-badge" />
@@ -143,5 +143,5 @@ mindmap
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+my+profile!+😊;Let’s+build+something+cool+🚀;Open+to+Internships+and+Collaboration!+💼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+checking+my+profile!+😊;Let’s+build+something+cool+🚀;Open+to+ork+and+Collaboration!+💼" />
 </div>
